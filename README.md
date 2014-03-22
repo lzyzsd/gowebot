@@ -1,0 +1,4 @@
+gowebot
+=======
+
+golang wechat rules
